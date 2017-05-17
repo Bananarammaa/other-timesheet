@@ -1,17 +1,17 @@
 module Constants
   TIMEZONE = 'Eastern Time (US & Canada)'
   DAY_END = 1
-  BUILD_MEETINGS = 2
-  PRE_MEETINGS = 1
-  PRE_HOURS = 25
-  DEFAULT_LOGIN = "signup@team900.org"
-  TEAM_NAME = 'Zebracorns'
-  TEAM_NUMBER = '900'
-  SCHOOL_NAME_REPLACEMENT = 'School'
+  BUILD_MEETINGS = 0
+  PRE_MEETINGS = 0
+  PRE_HOURS = 0
+  DEFAULT_LOGIN = "admin@girlsonfire5679.com"
+  TEAM_NAME = 'Girls on Fire'
+  TEAM_NUMBER = '5679'
+  SCHOOL_NAME_REPLACEMENT = 'Team'
   GENDERS = ['Male', 'Female', 'Other']
-  FRESHMAN_HOURS = 6
-  SOPHOMORE_HOURS = 8
-  JUNIOR_HOURS = 10
-  SENIOR_HOURS = 10
-  LEADERSHIP_HOURS = 15
+  FRESHMAN_HOURS = 0
+  SOPHOMORE_HOURS = 0
+  JUNIOR_HOURS = 0
+  SENIOR_HOURS = 0
+  LEADERSHIP_HOURS = 0
 end
